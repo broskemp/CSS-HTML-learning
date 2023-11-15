@@ -128,7 +128,7 @@ article p {
 
 h3 {
     text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
     color: white;
 }
 
@@ -152,4 +152,10 @@ footer p {
 
 #C2 {
     padding-top: 3rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 3rem;
+    color: white;
 }
